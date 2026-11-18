@@ -1,0 +1,6 @@
+class,test_crops,precision,recall,f1
+Deltote deceptoria,19,0.95,1.0,0.974
+Eilema sp.,6,0.857,1.0,0.923
+Plagodis,9,1.0,1.0,1.0
+Thaumetopoea processionea,47,1.0,0.957,0.978
+other insect,59,0.966,0.966,0.966

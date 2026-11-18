@@ -1,0 +1,58 @@
+{
+ "classes": [
+  "Deltote deceptoria",
+  "Eilema sp.",
+  "Plagodis",
+  "Thaumetopoea processionea",
+  "other insect"
+ ],
+ "merged": [
+  "Chiasmia",
+  "Drepaninae",
+  "Heliothis sp.",
+  "Lomaspilis marginata",
+  "Morphospecies 1",
+  "Morphospecies 2",
+  "Morphospecies 3"
+ ],
+ "test_acc": 0.9714285714285714,
+ "test_macro_f1": 0.9683596923832738,
+ "best_epoch": 8,
+ "confusion": [
+  [
+   19,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   6,
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   9,
+   0,
+   0
+  ],
+  [
+   0,
+   0,
+   0,
+   45,
+   2
+  ],
+  [
+   1,
+   1,
+   0,
+   0,
+   57
+  ]
+ ]
+}
